@@ -3,6 +3,24 @@
 # ImageDataGenerator-examples
 ImageDataGenerator-examplesはImageDataGeneratorによるデータ拡張のJupyter上での実行例です。
 
+Random Erasing、RICAP、Mixup、Cutmixの手法はImageDataGeneratorに実装されていないため、別リポジトリからクローンしてきて実行しています。
+
+Cutout/Random Erasing
+
+⇒https://github.com/yu4u/cutout-random-erasing.git
+
+RICAP
+
+⇒https://github.com/koshian2/keras-ricap
+
+Mixup
+
+⇒https://github.com/Kazuhito00/mixup
+
+Cutmix
+
+⇒https://github.com/Kazuhito00/cutmix
+
 # Requirement
  
 * Tensorflow 2.x
