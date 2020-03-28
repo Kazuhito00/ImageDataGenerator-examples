@@ -3,6 +3,7 @@
 # ImageDataGenerator-examples
 ImageDataGenerator-examplesはImageDataGeneratorによるデータ拡張のJupyter上での実行例です。
 
+# Note
 Random Erasing、RICAP、Mixup、Cutmixの手法はImageDataGeneratorに実装されていないため、別リポジトリからクローンしてきて実行しています。
 
 Cutout/Random Erasing
