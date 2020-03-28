@@ -8,7 +8,7 @@ Random Erasing、RICAP、Mixup、Cutmixの手法はImageDataGeneratorに実装�
 
 Cutout/Random Erasing
 
-⇒https://github.com/yu4u/cutout-random-erasing.git
+⇒https://github.com/yu4u/cutout-random-erasing
 
 RICAP
 
