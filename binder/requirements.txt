@@ -2,3 +2,4 @@ pillow
 tensorflow
 numpy
 matplotlib
+albumentations
