@@ -6,11 +6,13 @@ ImageDataGenerator-examplesはImageDataGeneratorによるデータ拡張のJupyt
 # Note
 Random Erasing、RICAP、Mixup、Cutmixの手法はImageDataGeneratorに実装されていないため、別リポジトリからクローンしてきて実行しています。
 
-Cutout/Random Erasing
+それぞれのソースコードの権利は各作者様に帰属します。
+
+Cutout/Random Erasing(yu4u様)
 
 ⇒https://github.com/yu4u/cutout-random-erasing
 
-RICAP
+RICAP(koshian2様)
 
 ⇒https://github.com/koshian2/keras-ricap
 
