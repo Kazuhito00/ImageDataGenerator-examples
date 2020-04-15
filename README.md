@@ -73,6 +73,7 @@ Jupyter上でImageDataGenerator-examples.ipynbを開いて実行してくださ�
 
 # ToDo
 - [ ] ChangeBackground
+- [ ] AugMix
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
