@@ -80,7 +80,7 @@ Jupyter上でImageDataGenerator-examples.ipynbを開いて実行してくださ�
 
 # License
 
-albumentations-examples is under [MIT license](LICENSE.md).
+ImageDataGenerator-examples is under [MIT license](LICENSE.md).
 
 また、ハリネズミ、マンタ、犬、猫の画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
 
